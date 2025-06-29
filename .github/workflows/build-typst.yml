@@ -22,8 +22,10 @@ jobs:
       with:
         typst-version: '0.13.0' 
 
-    - name: Set up font via fontist
+    - name: Set up fontist
       uses: fontist/setup-fontist@v2
+
+    - name: get font
       run: fontist install "Atkinson Hyperlegible"
 
     - name: Compile Typst document
