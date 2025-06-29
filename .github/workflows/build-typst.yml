@@ -26,10 +26,15 @@ jobs:
       uses: fontist/setup-fontist@v2
 
     - name: get font
-      run: fontist install "Atkinson Hyperlegible"
+      run: fontist install "Atkinson Hyperlegible", "Cal Sans"
+
+    - name: Get commit SHA
+      run: |
+        FULL_SHA="${{ github.sha }}"
+        echo "Full SHA: $FULL_SHA"
 
     - name: Compile Typst document
-      run: typst compile main.typ open-letter.pdf --font-path ~/.fontist/fonts 
+      run: typst compile main.typ open-letter.pdf --input commit=${FULL_SHA:0:7}  --font-path ~/.fontist/fonts 
 
     - name: Upload compiled PDF
       uses: actions/upload-artifact@v4

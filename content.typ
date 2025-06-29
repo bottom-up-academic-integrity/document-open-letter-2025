@@ -1,8 +1,6 @@
-= TU Delft for Integrity Open Letter 
-
 == Our response to The Moral Deliberation Advice Report: “Sensitive collaboration relating to Israel-Gaza”
 
-This letter is a summary of #link("https://tudelft.forintegrity.nl/output/2025-our-moral-deliberation.html")[our response to TU Delft’s Moral Deliberation outcome]and process regarding *TU Delft’s institutional collaborations with Israeli entities implicated in war crimes, apartheid, and plausible genocide, as identified in the context of the Israel-Gaza conflict.* For a deeper analysis of the process, its ethical shortcomings, and what a responsible alternative should look like, we invite you to #link("https://tudelft.forintegrity.nl/output/2025-our-moral-deliberation.html")[read our full document].
+This letter is a summary of our response to TU Delft’s Moral Deliberation outcome and process regarding *TU Delft’s institutional collaborations with Israeli entities implicated in war crimes, apartheid, and plausible genocide, as identified in the context of the Israel-Gaza conflict.* For a deeper analysis of the process, its ethical shortcomings, and what a responsible alternative should look like, we invite you to #link("https://tudelft.forintegrity.nl/output/2025-our-moral-deliberation.html")[read our full document].
 
 TU Delft has acknowledged the “possibility of genocidal violence” in Gaza, but continues collaborations with Israeli institutions credibly linked to the military apparatus carrying it out. The university’s recent policy shift—announcing a partial moratorium—is a result of organized, sustained and costly social pressure. The advice is that no new partnerships or projects with Israeli universities or organizations should be allowed, unless they are shown not to contribute to complicity. However, the same assessment process used for new proposals should also be applied to existing ones in order to stop benefiting those parties engaged in human rights violations.
 
@@ -18,9 +16,11 @@ When there is a credible risk of contributing to atrocity crimes, institutions h
 - *Reverse the burden of proof* — It should not be the victims of human rights violations who bear the burden of proving harm. Instead, institutions and collaborators must demonstrate that their projects do not contribute to those violations in order to proceed. This principle, already reflected in the stance taken by the moral deliberation chamber at Tilburg University, should be adopted at TU Delft as well.  
 - *Adopt the PACBI guidelines* for academic institutional boycott, a principled and nonviolent framework based on international human rights law.
 
+
 == *Why the Moral Deliberation Report Is Not Enough*
 
 *Lack of Protection for Ethical Refusal and Due Diligence*  
+
 The current moral deliberation outcome fails to provide any guidance or protection for students, staff and researchers who have already taken steps to disengage from collaborations with Israeli institutions credibly linked to war crimes and genocide. These acts of ethical refusal—grounded in legal obligations under the Genocide Convention and International Human Rights law—are already happening. Yet the report offers no protocols, no safeguards, nor any institutional support for those exercising conscientious objection as a result of their due diligence. 
 
 A response grounded in integrity should have been immediate, principled, and precautionary. Instead, the university’s delayed and ambiguous approach reflects a profound failure to meet the urgency and the legal and moral gravity of the moment.
