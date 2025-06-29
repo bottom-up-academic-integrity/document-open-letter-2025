@@ -26,7 +26,7 @@ jobs:
       uses: fontist/setup-fontist@v2
 
     - name: get font
-      run: fontist install "Atkinson Hyperlegible", "Cal Sans"
+      run: fontist install "Atkinson Hyperlegible" "Cal Sans"
 
     - name: Get commit SHA
       run: |
