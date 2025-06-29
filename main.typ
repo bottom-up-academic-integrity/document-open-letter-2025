@@ -20,7 +20,7 @@
 #set page(footer:  [
     #h(1fr)
     #set text(font: "Atkinson Hyperlegible", size: 7pt, fill: rgb(0%,0%,0%,5%))
-    #sys.inputs.commit
+    SHA#sys.inputs.commit
 ])
 
 

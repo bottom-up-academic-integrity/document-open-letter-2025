@@ -28,7 +28,7 @@ jobs:
     - name: get font
       run: |
        fontist install "Atkinson Hyperlegible"
-       fontist install "Atkinson Hyperlegible"
+       fontist install "Cal Sans"
 
     - name: Get commit SHA
       run: |
