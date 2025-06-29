@@ -1,15 +1,6 @@
-#set page(paper: "a4", margin: 1cm)
+#set page(paper: "a4", margin: 2cm)
 
-= My First Typst Document
+#set text(font: "Atkinson Hyperlegible", size: 9pt)
 
-This is a basic example demonstrating the structure of a Typst document.
-
-#set heading(numbering: "1.1.")
-
-== First Section
-
-This is the first section.
-
-=== First Subsection
-
-Here's some content.
+// add the body contents
+#include "content.typ"
