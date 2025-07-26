@@ -43,7 +43,7 @@ We are refusing to normalize the unacceptable.
 
 *And we invite you to join us.*  
 
-TU Delft for Integrity
+TU Delft for Integrity \ \ \
 
 === Authors:
 
