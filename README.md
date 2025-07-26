@@ -21,12 +21,9 @@ To summarise
 3. Wait for GitHub workflow to run (typically < 3min)
 4. Download the new pdf from the `Actions` page.
 
+> [!warning] GitHub workflow currently broken due to submodule change
+
 ### Compiling locally
 
-If you have Typst installed, you can also compile the document with 
+If you have Typst installed, you can also compile the document by running/inspecting the scripts in the [template/utils](template/utils) folder.
 
-```bash
-typst compile main.typ
-```
-
-In your terminal of choice.
