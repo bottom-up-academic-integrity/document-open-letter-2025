@@ -21,7 +21,9 @@ To summarise
 3. Wait for GitHub workflow to run (typically < 3min)
 4. Download the new pdf from the `Actions` page.
 
-> [!warning] GitHub workflow currently broken due to submodule change
+> [!NOTE] 
+>
+> GitHub workflow currently broken as the template submodule is private. Use the local approach outlined below.
 
 ### Compiling locally
 
