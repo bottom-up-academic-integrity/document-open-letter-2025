@@ -41,4 +41,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: Compiled-PDF
-        path: open-letter.pdf # Path to the generated PDF file
+        path: document.pdf # Path to the generated PDF file
