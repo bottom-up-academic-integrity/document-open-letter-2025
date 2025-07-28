@@ -21,10 +21,6 @@ To summarise
 3. Wait for GitHub workflow to run (typically < 3min)
 4. Download the new pdf from the `Actions` page.
 
-> [!NOTE] 
->
-> GitHub workflow currently broken as the template submodule is private. Use the local approach outlined below.
-
 ### Compiling locally
 
 If you have Typst installed, you can also compile the document by running/inspecting the scripts in the [template/utils](template/utils) folder.
