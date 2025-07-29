@@ -8,7 +8,7 @@ TU Delft has acknowledged the “possibility of genocidal violence” in Gaza, b
 
 We welcome the outcome, but it *does not go far enough*. 
 
-When there is a credible risk of contributing to atrocity crimes, institutions have a legal and moral duty to act—*even in the absence of full certainty*. This is the core of the *precautionary principle*, embedded inThe UN Guiding Principles on Business and Human Rights, OECD due diligence frameworks, and Dutch and international law on genocide and war crimes. A clearer line must be drawn, integrity requires urgent action, not delay.
+When there is a credible risk of contributing to atrocity crimes, institutions have a legal and moral duty to act—*even in the absence of full certainty*. This is the core of the *precautionary principle*, embedded in The UN Guiding Principles on Business and Human Rights, OECD due diligence frameworks, and Dutch and international law on genocide and war crimes. A clearer line must be drawn, integrity requires urgent action, not delay.
 
 *What the precautionary policy means for TU Delft* is clear:
 
